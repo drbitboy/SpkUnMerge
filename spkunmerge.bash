@@ -9,6 +9,8 @@
 ###
 ### e.g. Creates plu017_901.bsp, plu017_902.bsp, plu017_903.bsp and plu017_099.bsp
 ###
+### See http://naif.jpl.nasa.gov/pub/naif/toolkit_docs/C/ug/spkmerge.html
+###
 ### N.B.
 ###
 ###   Overwrites new SPKs in $PWD (Present Working Directory) e.g.
