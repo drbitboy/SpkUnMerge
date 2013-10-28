@@ -13,6 +13,8 @@
 ###
 ### N.B.
 ###
+###   Assumes NAIF/SPICE utility SPKMERGE is available via PATH
+###
 ###   Overwrites new SPKs in $PWD (Present Working Directory) e.g.
 ###     ./plu017_901.bsp
 ###     ./plu017_902.bsp
